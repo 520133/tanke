@@ -1,0 +1,1 @@
+F:\tank-2\build\classes\kotlin\main\com\MyWindow$WhenMappings.class;F:\tank-2\build\classes\kotlin\main\com\MyWindow.class;F:\tank-2\build\classes\kotlin\main\com\MyWindowKt.class
